@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click here](https://www.frontendmentor.io/solutions/responsive-testimonials-grid-section-4m9c5z3j9Q)
+- Live Site URL: [Click here](https://cybermaxi7.github.io/Testimonial-grid-section/)
 
 
 ### Built with
@@ -77,7 +77,7 @@ see some code snippets for grid-template-areas which i used for this challenge w
 - Frontend Mentor - [@Cybermaxi7](https://www.frontendmentor.io/profile/Cybermaxi7)
 - Twitter - [@Cybermaxi7](https://www.twitter.com/Cybermaxi7)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+
 
 ## Acknowledgments
 
